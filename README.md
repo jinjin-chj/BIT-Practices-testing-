@@ -1,2 +1,2 @@
-# BIT-Practices2
+# BIT-Practices
 Auto uploading (Now testing..)
